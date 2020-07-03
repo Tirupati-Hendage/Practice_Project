@@ -1,1 +1,59 @@
 Hi, Welcome to GitHub class.
+
+1) git config -global user.name "<name>"
+
+git config -global user.email "<E-Mail>" 
+
+2) git init 
+
+3) git clone <url>
+
+4) git add <filename>
+
+5) git commit -m "<msg>"
+
+6) git diff <first_branch> <second_branch>
+
+7) git reset <filename>
+
+8) git status 
+
+9) git rm <filename>
+
+10) git log -follow <filename>
+
+11) git show <commit id>
+
+12) git tag <commit id>
+
+13) git branch <branch name>
+
+ for delete--> git branch -d <branch name>
+
+14) git checkout <branch name>
+
+ create new branch & switch to it --> git checkout -b <branch name>
+
+15) git merge <branch name>
+
+16) git remote add <variable name> <remote server link>
+
+17) git push <variable name> master/<branchname>(optional)
+
+18) git pull <repo>
+
+19) git stash save --> to store modified file in repo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
