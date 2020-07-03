@@ -1,0 +1,37 @@
+body{
+    background-image: url(../images/images.jfif);
+    margin: 30px 0 50px 30px;
+}
+.heading{
+  color: white;
+  background-color: navy;
+  width:100%;
+}
+
+.heading h1{
+  padding: 10px;
+}
+
+.questionblocks{
+  background-color: white;
+  border-style: solid;
+  border-color: navy;
+  width: 30%;
+  padding: 0 5% 3% 5%;
+}
+
+.que{
+  font-size: 20px;
+  color: navy;
+  font-weight: bold;
+}
+
+.options{
+  color: blue;
+  margin-left: 20px;
+}
+
+.submit input{
+  width: 150px;
+  margin: 10px;
+}
